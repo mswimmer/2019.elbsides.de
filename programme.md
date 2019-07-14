@@ -144,7 +144,7 @@ References:
 * Length: 45 min
 * Room: [Elbe](venue.html#elbe)
 
-his talk will cover in depth analysis of the firmware and the risk which can potentially be concealed in IoT devices. This requires deep understanding of IoT ecosystem. This talk aims at giving insight into the critical concepts of IoT security and will be followed with a demonstration session. 
+This talk will cover in depth analysis of the firmware and the risk which can potentially be concealed in IoT devices. This requires deep understanding of IoT ecosystem. This talk aims at giving insight into the critical concepts of IoT security and will be followed with a demonstration session. 
 In the end, mitigation logic for the issues will be shared. 
 Talk is accompanied with demo on a test firmware. 
 Number of devices connected to Internet have exponentially increased in recent years. With a drastic increase, there is a significant rise in threats imposed to IoT devices. With a successful attack, an adversary can steal confidential information of the device as well as user information which can then be used to perform further attacks.
@@ -395,8 +395,8 @@ Katharine Jarmul has been working with computers and code since her early years,
 ## Saurabh Swaroop ##
 * Talk: [IoT Security - In a Nutshell](#iot-security---in-a-nutshell)
 * Time: 14:35
-* Company: [Intel Corp](https://www.intel.com)
-* Twitter: [@SaurabhSwaroo11](https://twitter.com/SaurabhSwaroo11)
+* Company: Saurabh works in a fortune 50 company
+* LinkedIn: [linkedin.com/in/saurabh-swaroop-b1061a59](https://www.linkedin.com/in/saurabh-swaroop-b1061a59/)
 
 ## Michael Helwig ##
 <img src="assets/images/michael-helwig.jpg" alt="Michael Helwig" width="200" height="200"/>
