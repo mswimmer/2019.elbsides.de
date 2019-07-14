@@ -409,9 +409,12 @@ Katharine Jarmul has been working with computers and code since her early years,
 ## Martin Reinhardt ##
 
 <img src="assets/images/martin-reinhardt.jpg" alt="Martin Reinhardt" width="200" height="200"/>
+* Title: Ambassador of Software Craftsmanship and Secure {Code} Catalyst
 * Time: 16:25
 * Talk: [Continuous Security at the Next Level](#continuous-security-at-the-next-level)
 * Twitter: [@mreinhardt](https://twitter.com/mreinhardt)
+
+Martin Reinhardt is working as architect at Holisticon AG, a management and IT consulting company. He is in charge for the architecture of complex distributed systems, modern web architectures and build management. Martin is involved in the software-craftsmanship movement. He has been active in the field of Java and web development for several years. In addition, he is primarily involved in automation in various technologies, JavaScript projects and is also several OpenSource projects.
 
 ## Samy Makki ##
 
