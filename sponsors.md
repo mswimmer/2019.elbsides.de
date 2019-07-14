@@ -15,10 +15,16 @@ make this happen, we need sponsors to cover our costs.
 <table>
 	<tr>
 		<td>
+			<a href="https://www.graylog.org">Graylog</a>
+		</td>
+		<td>
 			Our gold sponsor will be announced soon!
 		</td>
 	</tr>
 	<tr>
+		<td style="background-color: white; border: 5px solid #00d298; text-align: center;">
+			<img src="assets/images/Graylog_Logo_FINAL_color.png" alt="Graylog" width="200px" />
+		</td>
 		<td style="background-color: white; border: 5px solid #00d298; text-align: center;">
 			<img src="assets/images/TBA sponsor.png" alt="Sponsor to be announced" width="200px" />
 		</td>
