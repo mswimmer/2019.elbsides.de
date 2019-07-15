@@ -64,7 +64,7 @@ make this happen, we need sponsors to cover our costs.
 			<a href="https://www.pre-sense.de">PRESENSE Technologies GmbH</a>
 		</td>
 		<td>
-			Will be announced soon!
+			<a href="https://www.deloitte.com/de/">Deloitte</a>
 		</td>
 	</tr>
 	<tr>
@@ -75,7 +75,7 @@ make this happen, we need sponsors to cover our costs.
 			<img src="assets/images/Logo_Presense_EN_rgb_blue_www.png" alt="PRESENSE Technologies GmbH" width="200px" />
 		</td>
 		<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px">
-			<img src="assets/images/TBA sponsor.png" alt="Sponsor to be announced" width="200px" />
+			
 		</td>
 	</tr>
 </table>
@@ -91,7 +91,7 @@ make this happen, we need sponsors to cover our costs.
 			<a href="https://www.sumcumo.com">sum.cumo GmbH</a>
 		</td>
 		<td>
-			Will be announced soon!
+			<a href="https://superluminar.io">Superluminar</a>
 		</td>
 	</tr>
 	<tr>
@@ -102,7 +102,7 @@ make this happen, we need sponsors to cover our costs.
 			<img src="assets/images/sum.cumo-logo.png" alt="sum.cumo GmbH" width="200px" />
 		</td>
 		<td style="background-color: white; border: 5px solid #00d298; text-align: center;">
-			<img src="assets/images/TBA sponsor.png" alt="Sponsor to be announced" width="200px" />
+			
 		</td>
 	</tr>
 </table>
