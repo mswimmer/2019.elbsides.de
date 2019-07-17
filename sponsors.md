@@ -75,7 +75,7 @@ make this happen, we need sponsors to cover our costs.
 			<img src="assets/images/Logo_Presense_EN_rgb_blue_www.png" alt="PRESENSE Technologies GmbH" width="200px" />
 		</td>
 		<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px">
-			
+			<img src="assets/images/Deloitte-200px.png" alt="Deloitte" width="200px" />
 		</td>
 	</tr>
 </table>
