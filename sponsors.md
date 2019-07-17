@@ -95,13 +95,13 @@ make this happen, we need sponsors to cover our costs.
 		</td>
 	</tr>
 	<tr>
-		<td style="background-color: white; border: 5px solid #00d298; text-align: center;">
+		<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px">
 			<img src="assets/images/codemetrix-logo.jpeg" alt="Codemetrix GmbH" width="200px" />
 		</td>
-		<td style="background-color: white; border: 5px solid #00d298; text-align: center;">
+		<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px">
 			<img src="assets/images/sum.cumo-logo.png" alt="sum.cumo GmbH" width="200px" />
 		</td>
-		<td style="background-color: white; border: 5px solid #00d298; text-align: center;">
+		<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px">
 			<img src="assets/images/Superluminar-400px.png" alt="Superluminar" width="200px" />
 		</td>
 	</tr>
@@ -119,10 +119,10 @@ make this happen, we need sponsors to cover our costs.
 		</td>
 	</tr>
 	<tr>
-		<td style="background-color: white; border: 5px solid #00d298;	text-align: center;"  width="200px">
+		<td style="background-color: white; border: 5px solid #00d298;	text-align: center; min-width:200px"  width="200px">
 			<img src="assets/images/bsidesmunich_logo_website_banner_2019-slider-bg.png" alt="BSides Munich" width="200px" />
 		</td>
-		<td style="background-color: white; border: 5px solid #00d298;	text-align: center;"  width="200px">
+		<td style="background-color: white; border: 5px solid #00d298;	text-align: center; min-width:200px"  width="200px">
 			<img src="assets/images/louis-logo.png" alt="Louis" width="200px" />
 		</td>
 	</tr>
