@@ -22,10 +22,10 @@ make this happen, we need sponsors to cover our costs.
 		</td>
 	</tr>
 	<tr>
-		<td style="background-color: white; border: 5px solid #00d298; text-align: center;">
+		<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px">
 			<img src="assets/images/Graylog_Logo_FINAL_color.png" alt="Graylog" width="200px" />
 		</td>
-		<td style="background-color: white; border: 5px solid #00d298; text-align: center;">
+		<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px">
 			<img src="assets/images/TBA sponsor.png" alt="Sponsor to be announced" width="200px" />
 		</td>
 	</tr>
@@ -46,7 +46,7 @@ make this happen, we need sponsors to cover our costs.
 		</td>
 	</tr>
 	<tr>
-		<td style="background-color: white; border: 5px solid #00d298;	text-align: center; min-width:200px">
+		<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px">
 			<img src="assets/images/dfn-cert.png" alt="DFN-CERT Services GmbH" width="200px" />
 		</td>
 		<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px">
