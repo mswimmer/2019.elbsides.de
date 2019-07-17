@@ -102,7 +102,7 @@ make this happen, we need sponsors to cover our costs.
 			<img src="assets/images/sum.cumo-logo.png" alt="sum.cumo GmbH" width="200px" />
 		</td>
 		<td style="background-color: white; border: 5px solid #00d298; text-align: center;">
-			
+			<img src="assets/images/Superluminar-400px.png" alt="Superluminar" width="200px" />
 		</td>
 	</tr>
 </table>
