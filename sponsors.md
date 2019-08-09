@@ -152,16 +152,8 @@ make this happen, we need sponsors to cover our costs.
 
 # How to become a sponsor #
 
-<table>
-	<col width="70%">
-	<col width="30%">
-	<tr>
-		<td>
-		If you would like to be a sponsor and support the Hamburg security community, please see our <a href="assets/documents/Sponsorpaket Elbsides 2019.pdf">sponsor package</a> and inquire at elbsides -at- gmail.com. We are looking forward to working with you!
-		
-		</td>
-		<td>
-			<a href="assets/documents/Sponsorpaket Elbsides 2019.pdf"><img src="assets/images/Sponsorpaket Elbsides 2019 cover.png" alt="Sponsor package"/></a>
-		</td>
-	</tr>
-</table>
+If you would like to be a sponsor and support the Hamburg security community, please see our [sponsor package](assets/documents/Sponsorpaket Elbsides 2019.pdf) and inquire at **elbsides -at- gmail.com**. We are looking forward to working with you!
+
+**Note that we are closing all applications for sponsoring this year's event on _August 13th, 2019_.**
+
+[![Elbsides sponsor package](assets/images/Sponsorpaket Elbsides 2019 cover.png)](assets/documents/Sponsorpaket Elbsides 2019.pdf)
