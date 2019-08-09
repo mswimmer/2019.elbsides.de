@@ -105,6 +105,28 @@ make this happen, we need sponsors to cover our costs.
 			<img src="assets/images/Superluminar-400px.png" alt="Superluminar" width="200px" />
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://www.lotto24.de">Lotto24</a>
+		</td>
+		<td>
+			TBA
+		</td>
+		<td>
+			TBA
+		</td>
+	</tr>
+	<tr>
+		<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px">
+			<img src="assets/images/L24_Logo_Hoch_rgb_neg_200px.png" alt="Lotto24" width="100px" />
+		</td>
+		<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px">
+			<img src="assets/images/TBA sponsor.png" alt="Sponsor to be announced" width="200px" />
+			</td>
+		<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px">
+			<img src="assets/images/TBA sponsor.png" alt="Sponsor to be announced" width="200px" />
+		</td>
+	</tr>
 </table>
 
 # Community Sponsors #
