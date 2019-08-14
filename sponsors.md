@@ -110,7 +110,7 @@ make this happen, we need sponsors to cover our costs.
 			<a href="https://www.lotto24.de">Lotto24</a>
 		</td>
 		<td>
-			TBA
+			<a href="https://www.yubico.com">Yubico AB</a>
 		</td>
 		<td>
 			TBA
@@ -121,7 +121,7 @@ make this happen, we need sponsors to cover our costs.
 			<img src="assets/images/L24_Logo_Hoch_rgb_neg_200px.png" alt="Lotto24" width="100px" />
 		</td>
 		<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px">
-			<img src="assets/images/TBA sponsor.png" alt="Sponsor to be announced" width="200px" />
+			<img src="assets/images/Yubico_Logo_Big.png" alt="Yubico AB" width="200px" />
 			</td>
 		<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px">
 			<img src="assets/images/TBA sponsor.png" alt="Sponsor to be announced" width="200px" />
