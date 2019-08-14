@@ -21,7 +21,7 @@ All conference talks will be in the [Elbe](venue.html#elbe) room.
 | 12:25 | 12:50      | [Exploring Emotet, an Elaborate Everyday Enigma](#exploring-emotet-an-elaborate-everyday-enigma) | [Luca Nagy](#luca-nagy) |
 | 12:50 | 13:50      | lunch     |     |
 | 13:50 | 14:35      | [Defending BLE Beacon Applications Against Common Attacks](#defending-ble-beacon-applications-against-common-attacks) | [Christoph Peglow](#christoph-peglow), [Malte Stoffers](#malte-stoffers) and [Thore Tiemann](#thore-tiemann)|
-| 14:35 | 15:20      | [IoT Security - In a Nutshell](#iot-security---in-a-nutshell) | [Saurabh Swaroop](#saurabh-swaroop) |
+| 14:35 | 15:20      | TBA | TBA |
 | 15:20 | 15:40      | break     |     |
 | 15:40 | 16:25      | [Securing Software at Scale - The crazy world of modern application security programs](#securing-software-at-scale---the-crazy-world-of-modern-application-security-programs) | [Michael Helwig](#michael-helwig) |
 | 16:25 | 17:10      | [Continuous Security at the Next Level](#continuous-security-at-the-next-level) | [Martin Reinhardt](#martin-reinhardt) |
@@ -137,17 +137,6 @@ References:
 - [1] Bernstein, D.J.: Curve25519: new diffie-hellman speed records. In: International Workshop on Public Key Cryptography. pp. 207-228. Springer (2006)
 - [2] Schneier, B.: Applied Cryptography: Protocols, Algorithms, and Source Code in C. John Wiley & Sons (2007)
 - [3] Tay, H.J., Tan, J., Narasimhan, P.: A survey of security vulnerabilities in bluetooth low energy beacons. Carnegie Mellon University Parallel Data Lab Technical Report CMU-PDL-16-109 (2016)
-
-## IoT Security - In a Nutshell ##
-* Speaker: [Saurabh Swaroop](#saurabh-swaroop)
-* Time: 13:50
-* Length: 45 min
-* Room: [Elbe](venue.html#elbe)
-
-This talk will cover in depth analysis of the firmware and the risk which can potentially be concealed in IoT devices. This requires deep understanding of IoT ecosystem. This talk aims at giving insight into the critical concepts of IoT security and will be followed with a demonstration session. 
-In the end, mitigation logic for the issues will be shared. 
-Talk is accompanied with demo on a test firmware. 
-Number of devices connected to Internet have exponentially increased in recent years. With a drastic increase, there is a significant rise in threats imposed to IoT devices. With a successful attack, an adversary can steal confidential information of the device as well as user information which can then be used to perform further attacks.
 
 ## Securing Software at Scale - The crazy world of modern application security programs ##
 * Speaker: [Michael Helwig](#michael-helwig)
@@ -391,12 +380,6 @@ Katharine Jarmul has been working with computers and code since her early years,
 * Time: 13:50
 * Organization: [University of Lübeck](https://www.uni-luebeck.de)
 * Country: Germany
-
-## Saurabh Swaroop ##
-* Talk: [IoT Security - In a Nutshell](#iot-security---in-a-nutshell)
-* Time: 14:35
-* Company: Saurabh works in a fortune 50 company
-* LinkedIn: [linkedin.com/in/saurabh-swaroop-b1061a59](https://www.linkedin.com/in/saurabh-swaroop-b1061a59/)
 
 ## Michael Helwig ##
 <img src="assets/images/michael-helwig.jpg" alt="Michael Helwig" width="200" height="200"/>
