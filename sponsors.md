@@ -78,6 +78,16 @@ make this happen, we need sponsors to cover our costs.
 			<img src="assets/images/Deloitte-200px.png" alt="Deloitte" width="200px" />
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://www.allgeier-core.com">Allgeier CORE GmbH</a>
+		</td>
+	</tr>
+	<tr>
+		<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px; height: 118px">
+			<img src="assets/images/Allgeier-CORE-With-Claim-200px.png" alt="Allgeier CORE GmbH" width="200px" />
+		</td>
+	</tr>
 </table>
 
 # Bronze Sponsors #
