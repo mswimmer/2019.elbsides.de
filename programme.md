@@ -21,14 +21,14 @@ All conference talks will be in the [Elbe](venue.html#elbe) room.
 | 12:25 | 12:50      | [Exploring Emotet, an Elaborate Everyday Enigma](#exploring-emotet-an-elaborate-everyday-enigma) | [Luca Nagy](#luca-nagy) |
 | 12:50 | 13:50      | lunch     |     |
 | 13:50 | 14:35      | [Defending BLE Beacon Applications Against Common Attacks](#defending-ble-beacon-applications-against-common-attacks) | [Christoph Peglow](#christoph-peglow), [Malte Stoffers](#malte-stoffers) and [Thore Tiemann](#thore-tiemann)|
-| 14:35 | 15:20      | TBA | TBA |
+| 14:35 | 15:20      | [When Your Biggest Threat is on Your Payroll: Drivers & Enablers of Insider Threat Activity](#when-your-biggest-threat-is-on-your-payroll-drivers--enablers-of-insider-threat-activity) | [Christina Lekati](#christina-lekati) |
 | 15:20 | 15:40      | break     |     |
 | 15:40 | 16:25      | [Securing Software at Scale - The crazy world of modern application security programs](#securing-software-at-scale---the-crazy-world-of-modern-application-security-programs) | [Michael Helwig](#michael-helwig) |
 | 16:25 | 17:10      | [Continuous Security at the Next Level](#continuous-security-at-the-next-level) | [Martin Reinhardt](#martin-reinhardt) |
 | 17:10 | 17:55      | [Credential Stuffing Attacks! What is it and how you can protect your Web Application!](#credential-stuffing-attacks-what-is-it-and-how-you-can-protect-your-web-application) | [Samy Makki](#samy-makki) |
 | 17:55 | 18:00      | closing     |     |
 
-Reserve paper: [When Your Biggest Threat is on Your Payroll: Drivers & Enablers of Insider Threat Activity](#when-your-biggest-threat-is-on-your-payroll-drivers--enablers-of-insider-threat-activity). Speaker: [Christina Lekati](#christina-lekati).
+Reserve paper: TBA
 
 # Workshop Programme #
 
@@ -166,9 +166,10 @@ Every web application will see them on their site... Bots. But what are they doi
 In this talk I will especially talk about attacks targeting the login of a site. Learn about how a typical credential stuffing attack works and ways how to detect and mitigate them.
 
 ## When Your Biggest Threat is on Your Payroll: Drivers & Enablers of Insider Threat Activity ##
-* Reserve paper
-* [Cyber Risk GmbH](https://www.cyber-risk-gmbh.com/)
 * Speaker: [Christina Lekati](#christina-lekati)
+* Time: 14:35
+* Length: 45 min
+* Company: [Cyber Risk GmbH](https://www.cyber-risk-gmbh.com/)
 
 It is often an irony in organizational security: Although so much capital is invested in the protection of the organizational assets against external threats, some of the largest compromises have instead occurred as a result of insider threats, sometimes resulting in irrecoverable damage. This type of threat carries an especially high-risk factor for organizations in the sector of critical infrastructure and industries where intellectual property and the protection of sensitive information are essential for the healthy continuation of their operations.
 
@@ -360,8 +361,8 @@ Katharine Jarmul has been working with computers and code since her early years,
 * Talk: [Exploring Emotet, an Elaborate Everyday Enigma](#exploring-emotet-an-elaborate-everyday-enigma)
 * Time: 12:25
 * Company: Sophos
-* Twitter: [@luca_nagy_](https://twitter.com/luca_nagy_)
 * Country: Hungary
+* Twitter: [@luca_nagy_](https://twitter.com/luca_nagy_)
 
 ## Christoph Peglow ##
 * Talk: [Defending BLE Beacon Applications Against Common Attacks](#defending-ble-beacon-applications-against-common-attacks)
@@ -414,7 +415,9 @@ Martin Reinhardt is working as architect at Holisticon AG, a management and IT c
 <img src="assets/images/christina-lekati.jpg" alt="Christina Lekati" width="200" height="200"/>
 
 * Talk: [When Your Biggest Threat is on Your Payroll: Drivers & Enablers of Insider Threat Activity](#when-your-biggest-threat-is-on-your-payroll-drivers--enablers-of-insider-threat-activity)
-* Reserve paper
+* Time: 14:35
+* Company: [Cyber Risk GmbH](https://www.cyber-risk-gmbh.com/)
+* Country: Switzerland
 * Twitter: [@ChristinaLekati](https://twitter.com/ChristinaLekati)
 
 Christina Lekati is a psychologist and a social engineer.
