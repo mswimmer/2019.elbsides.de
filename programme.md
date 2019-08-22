@@ -32,21 +32,31 @@ Reserve paper: TBA
 
 # Workshop Programme #
 
-The room for each workshop is listed below.
+The Workshops take place on the first floor and there are two rooms: [Alster](venue.html#alster)  and  [Bille](venue.html#bille). Take the stairs or the elevator up one floor from the entrance area (or three floors from the main space).
 
-|------- | ------ +-----------+--------------------------------+---------------|
-| Time   |        | Room     | Title                          | Speaker       |
+## Workshops in room  [Alster](venue.html#alster)  ##
+
+|------- | -----+--------------------------------+---------------|
+| Time      |            | Title                                                         | Speaker       |
+| ------ | ------| :----------------------------- |:--------------|
+| 08:00    | 09:00  |      Registration  will be outside room  [Elbe](venue.html#elbe)   |
+|------- | -----+--------------------------------+---------------|
+| 10:55     | 12:55  |  [From source code to the final end - The way of an encryption trojan from attacker to your company](#from-source-code-to-the-final-end---the-way-of-an-encryption-trojan-from-attacker-to-your-company) | [Constantin Zankl ](#constantin-zankl), [Clemens Rambow](#clemens-rambow) |
+|------- | -------+-----------+--------------------------------+---------------|
+| 13:50     | 17:50  |  [Elbsides vs. Juice Shop](#elbsides-vs-juice-shop) | [Björn Kimminich](#björn-kimminich) |
+|------- | -----+-------------------------------------------+---------------|
+
+## Workshops in room [Bille](venue.html#bille) ##
+
+|------- | -----------------+--------------------------------+---------------|
+| Time      |             | Title                          | Speaker       |
 | ------ | ------ |:---------| :----------------------------- |:--------------|
-| 08:00  | 09:00  |           | registration                   |               |
+| 08:00    | 09:00   |    Registration  will be outside room  [Elbe](venue.html#elbe)                       |               |
 |------- | -------+-----------+--------------------------------+---------------|
-| 10:55  | 12:55  | [Alster](venue.html#alster) | [From source code to the final end - The way of an encryption trojan from attacker to your company](#from-source-code-to-the-final-end---the-way-of-an-encryption-trojan-from-attacker-to-your-company) | [Constantin Zankl ](#constantin-zankl), [Clemens Rambow](#clemens-rambow) |
-|------- | -------+-----------+--------------------------------+---------------|
-| 13:50  | 17:50  | [Alster](venue.html#alster) | [Elbsides vs. Juice Shop](#elbsides-vs-juice-shop) | [Björn Kimminich](#björn-kimminich) |
-|------- | -------+-----------+--------------------------------+---------------|
-| 10:55  | 12:55  | [Bille](venue.html#bille) | [Bettercap: exploring the local network](#bettercap-exploring-the-local-network) | [Christoph Eicke](#christoph-eicke) |
-|------- | -------+-----------+--------------------------------+---------------|
-| 13:50  | 17:50  | [Bille](venue.html#bille) | [Introduction to Binary Reversing and Exploitation with radare2](#introduction-to-binary-reversing-and-exploitation-with-radare2) | [Richard Sammet](#richard-sammet) |
-|------- | -------+-----------+--------------------------------+---------------|
+| 10:55    | 12:55   | [Bettercap: exploring the local network](#bettercap-exploring-the-local-network) | [Christoph Eicke](#christoph-eicke) |
+|------- | ------------------+--------------------------------+---------------|
+| 13:50    | 17:50   | [Introduction to Binary Reversing and Exploitation with radare2](#introduction-to-binary-reversing-and-exploitation-with-radare2) | [Richard Sammet](#richard-sammet) |
+|------- | ------------------+--------------------------------+---------------|
 
 -------------------------------------------------------------------------------
 
