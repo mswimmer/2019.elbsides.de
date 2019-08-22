@@ -18,15 +18,15 @@ make this happen, we need sponsors to cover our costs.
 			<a href="https://www.graylog.org">Graylog</a>
 		</td>
 		<td>
-			Our gold sponsor will be announced soon!
+			<a href="https://www.airbus.com">Airbus S.A.S.</a>
 		</td>
 	</tr>
 	<tr>
 		<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px">
-			<img src="assets/images/Graylog_Logo_FINAL_color.png" alt="Graylog" width="200px" />
+			<img src="assets/images/Graylog_Logo_FINAL_color.png" alt="Graylog" width="140px" />
 		</td>
 		<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px">
-			<img src="assets/images/TBA sponsor.png" alt="Sponsor to be announced" width="200px" />
+			<img src="assets/images/AIRBUS_Blue.png" alt="Airbus S.A.S." width="200px" />
 		</td>
 	</tr>
 </table>
@@ -47,13 +47,13 @@ make this happen, we need sponsors to cover our costs.
 	</tr>
 	<tr>
 		<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px">
-			<img src="assets/images/dfn-cert.png" alt="DFN-CERT Services GmbH" width="200px" />
+			<img src="assets/images/dfn-cert.png" alt="DFN-CERT Services GmbH" width="150px" />
 		</td>
 		<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px">
 			<img src="assets/images/Schutzwerk_Logo_RZ.png" alt="Schutzwerk GmbH" width="200px" />
 		</td>
 		<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px">
-			<img src="assets/images/HPA_Logo_CMYK_mit_Schutzzone_halbes_H.jpg" alt="Hamburg Port Authority" width="200px" />
+			<img src="assets/images/HPA_Logo_CMYK_mit_Schutzzone_halbes_H.jpg" alt="Hamburg Port Authority" width="180px" />
 		</td>
 	</tr>
 	<tr>
@@ -109,7 +109,7 @@ make this happen, we need sponsors to cover our costs.
 			<img src="assets/images/codemetrix-logo.jpeg" alt="Codemetrix GmbH" width="200px" />
 		</td>
 		<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px">
-			<img src="assets/images/sum.cumo-logo.png" alt="sum.cumo GmbH" width="200px" />
+			<img src="assets/images/sum.cumo-logo.png" alt="sum.cumo GmbH" width="150px" />
 		</td>
 		<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px">
 			<img src="assets/images/Superluminar-400px.png" alt="Superluminar" width="200px" />
@@ -131,7 +131,7 @@ make this happen, we need sponsors to cover our costs.
 			<img src="assets/images/L24_Logo_Hoch_rgb_neg_200px.png" alt="Lotto24" width="100px" />
 		</td>
 		<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px">
-			<img src="assets/images/Yubico_Logo_Big.png" alt="Yubico AB" width="200px" />
+			<img src="assets/images/Yubico_Logo_Big.png" alt="Yubico AB" width="150px" />
 			</td>
 		<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px">
 			<img src="assets/images/TBA sponsor.png" alt="Sponsor to be announced" width="200px" />
