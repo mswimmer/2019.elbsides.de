@@ -123,7 +123,7 @@ make this happen, we need sponsors to cover our costs.
 			<a href="https://www.yubico.com">Yubico AB</a>
 		</td>
 		<td>
-			TBA
+			<a href="https://www.google.com">Google LLC</a>
 		</td>
 	</tr>
 	<tr>
@@ -134,7 +134,7 @@ make this happen, we need sponsors to cover our costs.
 			<img src="assets/images/Yubico_Logo_Big.png" alt="Yubico AB" width="150px" />
 			</td>
 		<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px">
-			<img src="assets/images/TBA sponsor.png" alt="Sponsor to be announced" width="200px" />
+			<img src="assets/images/googlelogo_color_466x156dp.png" alt="Google LLC" width="150px" />
 		</td>
 	</tr>
 </table>
