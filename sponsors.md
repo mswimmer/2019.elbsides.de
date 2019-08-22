@@ -164,6 +164,6 @@ make this happen, we need sponsors to cover our costs.
 
 If you would like to be a sponsor and support the Hamburg security community, please see our [sponsor package](assets/documents/Sponsorpaket Elbsides 2019.pdf) and inquire at **elbsides -at- gmail.com**. We are looking forward to working with you!
 
-**Note that we are closing all applications for sponsoring this year's event on _August 13th, 2019_.**
+**Note that we ~~are closing~~ have closed all applications for sponsoring this year's event on _August 13th, 2019_.**
 
-[![Elbsides sponsor package](assets/images/Sponsorpaket Elbsides 2019 cover.png)](assets/documents/Sponsorpaket Elbsides 2019.pdf)
+We look forward to working with you as a sponsor in 2020!
