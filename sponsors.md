@@ -82,10 +82,18 @@ make this happen, we need sponsors to cover our costs.
 		<td>
 			<a href="https://www.allgeier-core.com">Allgeier CORE GmbH</a>
 		</td>
+		<td>
+			<a href="https://www.here.com">HERE Global B.V.</a>
+		</td>
 	</tr>
 	<tr>
 		<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px; height: 118px">
 			<img src="assets/images/Allgeier-CORE-With-Claim-200px.png" alt="Allgeier CORE GmbH" width="200px" />
+		</td>
+		<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px; height: 118px">
+			<img
+	src="assets/images/HERE_Logo_2016_POS_cmyk_IsoCV2.jpg" alt="HERE
+	Global B.V." width="110px" />
 		</td>
 	</tr>
 </table>
