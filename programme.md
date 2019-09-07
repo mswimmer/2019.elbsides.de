@@ -28,7 +28,7 @@ All conference talks will be in the [Elbe](venue.html#elbe) room.
 | 17:10 | 17:55      | [Credential Stuffing Attacks! What is it and how you can protect your Web Application!](#credential-stuffing-attacks-what-is-it-and-how-you-can-protect-your-web-application) | [Samy Makki](#samy-makki) |
 | 17:55 | 18:00      | closing     |     |
 
-Reserve paper: TBA
+Reserve paper: [Tim Eggert](#tim-eggert)
 
 # Workshop Programme #
 
@@ -445,3 +445,8 @@ She is working with Cyber Risk GmbH as a social engineering expert and trainer.
 Christina is the main developer of the social engineering training programs provided by Cyber Risk GmbH. Those programs are intertwining the lessons learned from real life cases and previous experiences with the fields of cybersecurity, psychology and counterintelligence. They often cover unique aspects while their main goal is to inspire delegates with a sense of responsibility and a better relationship with security.
 
 Being committed to sharing knowledge and expertise, Christina is also a speaker. She participates in a variety of cyber security events, raising awareness and educating people on social engineering techniques and the psychological elements involved in human hacking.
+
+## Tim Eggert ##
+
+* Talk: Reserve talk
+
