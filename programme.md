@@ -28,7 +28,7 @@ All conference talks will be in the [Elbe](venue.html#elbe) room.
 | 17:10 | 17:55      | [Credential Stuffing Attacks! What is it and how you can protect your Web Application!](#credential-stuffing-attacks-what-is-it-and-how-you-can-protect-your-web-application) | [Samy Makki](#samy-makki) |
 | 17:55 | 18:00      | closing     |     |
 
-Reserve paper: [Tim Eggert](#tim-eggert)
+Reserve paper: [A brief introduction to Digital Forensics](#a-brief-introduction-to-digital-forensics) - [Tim Eggert](#tim-eggert)
 
 # Workshop Programme #
 
@@ -185,6 +185,26 @@ It is often an irony in organizational security: Although so much capital is inv
 
 Employees in security-focused environments learn to treat outsiders with suspicion and to maintain trust boundaries. However, it is often the case that once an “outsider” enters the payroll of an organization they given a "carte blanche" in terms of trust and disclosure of information. They are now treated as the "insiders" that they are; members of the same tribe, fighting and working towards the same goals and using their skills to benefit their organization...until at some point one of them decides to use them differently. Or, until one of them realizes that the exploitation of organizational weaknesses would be a low-risk and high-reward activity. 
 This talk aims to shed some light on the threat of insider activity. It will discuss the motives that lead employees to insider activity, such as the unauthorized disclosure of sensitive information, process corruption, electronic sabotage, and/or the facilitation of third-party access to organizational assets. Research has repeatedly found a clear link between insider activity taking place and exploitable weaknesses in an organization’s security and management processes. Therefore, this talk will go on discussing the organizational factors enabling insider threat operations as well as countermeasures against them, by combining the lessons learned on insider activity prevention from the fields of counterintelligence, psychology, and cyber-security.
+
+## A brief introduction to Digital Forensics ##
+
+* Speaker: [Tim Eggert](#tim-eggert)
+* Time: n/a (reserve talk)
+* Length: 45m
+* Room: [Elbe](venue.html#elbe)
+
+In the last ten years cybercrime has evolved into a profitable business for the attackers, which led to more sophisticated attacks, new "underground business models" and a strong desire to collaborate to reach their goals.
+
+Meanwhile the defenders struggle with the complexity of their own it-infrastructures, the processes and forget to share their knowledge about how to investigate in a case of an attack.
+
+To help defenders to catch up with the attackers, this talk should shed some light on the basics of an investigative method called Digital Forensics, which is part of the overall approach called DFIR (Digital Forensics & Incident Response).
+
+In short:
+
+* A brief Introduction to Digital Forensics
+* The talk is about the different phases/stages of a digital forensics and the tasks which will arise.
+* It will also mention some real life problems during a digital forensic and approaches how to address them.
+
 
 # Workshop descriptions #
 
@@ -448,5 +468,10 @@ Being committed to sharing knowledge and expertise, Christina is also a speaker.
 
 ## Tim Eggert ##
 
-* Talk: Reserve talk
+* Talk: [A brief introduction to Digital Forensics](#a-brief-introduction-to-digital-forensics) (Reserve talk)
+* Company: Otto Group
+* Role: Principal Cybercrime Investigator
+* Country: Germany
+* Twitter: [@min0r_changes](https://twitter.com/min0r_changes)
 
+After studying informatics at the University of Lübeck, I spent many years in the working fields of DFIR (Digital Forensics & Incident Response), Cyber Threat Intelligence, Penetration Testing, Malware Analysis and Information Security. I am always keen on learning something new and gladly share my knowledge about security topics. That‘s why i also dedicate a part of my working time to teach people about DFIR.
