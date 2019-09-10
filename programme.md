@@ -249,6 +249,8 @@ This workshop gives an introduction into doing MITM attacks on your local ethern
 
 All of this is done with the Bettercap tool, the better and more modern successor to ettercap. We will briefly look at a high level overview of the tool and then dive into a practical application by doing the above described MITM attack.
 
+Please bring your own laptop to this workshop. We will be using a wired ethernet connection, so please make sure that you have an ethernet network port. I advise you to not use your personal or work laptop that emits information over the network, as we will be actively sniffing the network and spoofing connections! Maybe it is a good idea to boot from a live DVD or live USB thumbdrive for this workshop. Ubuntu or Debian preferred, but we can probably deal with any flavor of Unix.
+
 ## Introduction to Binary Reversing and Exploitation with radare2 ##
 * Speaker: [Richard Sammet](#richard-sammet)
 * Time: 13:50
