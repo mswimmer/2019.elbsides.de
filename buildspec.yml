@@ -11,13 +11,14 @@ phases:
     runtime-versions:
       ruby: 2.6
     commands:
-      - export LC_ALL="en_US.UTF-8"
-      - locale-gen en_US en_US.UTF-8
-      - dpkg-reconfigure locales
-      - gem install jekyll jekyll-paginate jekyll-sitemap jekyll-gist  html-proofer  jekyll-feed jemoji jekyll-include-cache
+      #- export LC_ALL="en_US.UTF-8"
+      #- locale-gen en_US en_US.UTF-8
+      #- dpkg-reconfigure locales
+      #- gem install jekyll jekyll-paginate jekyll-sitemap jekyll-gist html-proofer jekyll-feed jemoji jekyll-include-cache bundler
+      - gem install bundler
   build:
     commands:
-      - echo  Building and deploy beta at `date`
+      - echo  Building and deploy 2019 site at `date`
       - bundle install
       - rake build
       - echo Build completed at `date`
